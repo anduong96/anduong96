@@ -119,7 +119,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
   <h2>🔥 Streak stats</h2>
   <img alt="anduong96's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anduong96&theme=monokai-metallian&hide_border=true"/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anduong96&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 <br/>
 <br/>
