@@ -40,6 +40,7 @@
   ![Stats Overview](https://raw.githubusercontent.com/anduong96/github-stats-transparent/output/generated/overview.svg)
 
   <hr />
+  
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-625967%20lines%20of%20code-blue)
 
@@ -117,6 +118,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
+  
   <hr />
 
   <h2>🔥 Streak stats</h2>
