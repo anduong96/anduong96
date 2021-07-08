@@ -124,3 +124,4 @@ HTML                     1 repo              █░░░░░░░░░░�
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/anduong96)
+![](https://hit.yhype.me/github/profile?user_id=13195989)
