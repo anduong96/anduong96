@@ -1,9 +1,6 @@
 <div align="left">
-  <h1>👋. <small>Technology enthusiast & Part-time hacker</small></h1>
+  <h1>👋. <small>I build things</small></h1>
 
-  <a href="https://www.instagram.com/ahdng">
-    <img alt="Instagram" src="https://img.shields.io/badge/ahdng-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
   <a href="mailto:an.duongx@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
