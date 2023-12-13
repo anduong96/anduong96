@@ -39,9 +39,9 @@
   <hr />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C834%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C835%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.4%20thousand%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@
 
 > 📦 61.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,559 Contributions in the Year 2023
+> 🏆 2,575 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -84,17 +84,17 @@ Sunday                   118 commits         ████████░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               13 hrs              ████████░░░░░░░░░░░░░░░░░   33.56 % 
-JavaScript               5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-YAML                     4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Other                    3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Docker                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+TypeScript               12 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.90 % 
+JavaScript               5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+YAML                     4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Other                    3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Docker                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  38 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      38 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2023 00:48:17 UTC
+ Last Updated on 13/12/2023 00:47:26 UTC
 <!--END_SECTION:waka-->
   
   <hr />
