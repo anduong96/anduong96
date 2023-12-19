@@ -1,11 +1,19 @@
 <div align="left">
   <h1>👋. <small>I build things</small></h1>
 
-  <a href="mailto:an.duongx@gmail.com">
+  <a href="mailto:an@capriote.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahdng">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+
+  <br/>
+  <hr />
+  <br/>
+  <a href="https://www.flywithavi.com">
+      <img alt="Avi" src="https://avatars.githubusercontent.com/u/121987349?s=200&v=4"/>
   </a>
 
   <br/>
