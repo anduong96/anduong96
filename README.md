@@ -129,6 +129,7 @@ Java                     1 repo              ██░░░░░░░░░�
   <h2>🔥 Streak stats</h2>
   <img alt="anduong96's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anduong96&theme=monokai-metallian&hide_border=true"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=anduong96" />
 <br/>
 <br/>
 
