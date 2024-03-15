@@ -46,6 +46,8 @@
   <br/>
   <br/>
 
+  ![Stats 3D](https://github.com/anduong96/anduong96/blob/main/profile-3d-contrib/profile-night-green.svg)
+
   ![Stats Overview](https://raw.githubusercontent.com/anduong96/github-stats-transparent/output/generated/overview.svg)
 
   <hr />
