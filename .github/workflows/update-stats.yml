@@ -20,6 +20,10 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           LOCALE: "en"
+  generate-3d-image:
+    name: Generate 3D image
+    runs-on: ubuntu-latest
+    steps:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
