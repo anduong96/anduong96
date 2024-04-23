@@ -12,7 +12,7 @@
   <br/>
   <hr />
   <br/>
-  <a href="https://www.flywithavi.com">
+  <a href="https://www.capriote.com">
       <img alt="Capriote" src="https://avatars.githubusercontent.com/u/153028651?s=200&v=4"/>
   </a>
   <br />
