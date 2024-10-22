@@ -53,15 +53,13 @@
   <hr />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C804%20hrs%2051%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-861.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 82.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,306 Contributions in the Year 2024
+> 🏆 2,307 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -120,7 +118,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 01:02:55 UTC
+ Last Updated on 22/10/2024 01:02:05 UTC
 <!--END_SECTION:waka-->
   
   <hr />
