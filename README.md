@@ -13,7 +13,7 @@
   <hr />
   <br/>
   <a href="https://maderight.ai">
-      <img alt="MadeRight.ai" src="https://avatars.githubusercontent.com/u/153028651?s=200&v=4"/>
+      <img alt="MadeRight.ai" src="https://avatars.githubusercontent.com/u/153028651?s=400"/>
   </a>
   <br />
   <a href="https://www.flywithavi.com">
