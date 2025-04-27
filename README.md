@@ -1,7 +1,7 @@
 <div align="left">
   <h1>👋. <small>I build things</small></h1>
 
-  <a href="mailto:an@capriote.com">
+  <a href="mailto:an@maderight.ai">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahdng">
@@ -13,7 +13,7 @@
   <hr />
   <br/>
   <a href="https://www.capriote.com">
-      <img alt="Capriote" src="https://avatars.githubusercontent.com/u/153028651?s=200&v=4"/>
+      <img alt="MadeRight.ai" src="https://avatars.githubusercontent.com/u/153028651?s=200&v=4"/>
   </a>
   <br />
   <a href="https://www.flywithavi.com">
