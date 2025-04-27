@@ -10,13 +10,11 @@
 
 
   <br/>
-  <hr />
   <br/>
   <a href="https://maderight.ai">
       <img alt="MadeRight.ai" src="https://avatars.githubusercontent.com/u/153028651?s=400"/>
   </a>
   <br/>
-  <hr />
   <br/>
 
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
