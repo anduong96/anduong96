@@ -15,11 +15,6 @@
   <a href="https://maderight.ai">
       <img alt="MadeRight.ai" src="https://avatars.githubusercontent.com/u/153028651?s=400"/>
   </a>
-  <br />
-  <a href="https://www.flywithavi.com">
-      <img alt="Avi" src="https://avatars.githubusercontent.com/u/121987349?s=200&v=4"/>
-  </a>
-
   <br/>
   <hr />
   <br/>
