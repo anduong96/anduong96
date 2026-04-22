@@ -38,7 +38,8 @@
   <br/>
   <br/>
   <br/>
-  [![Tokscale Stats](https://tokscale.ai/api/embed/anduong96/svg)](https://tokscale.ai/u/anduong96)
+  
+  ![Tokscale Stats](https://tokscale.ai/api/embed/anduong96/svg)
   
   ![Stats 3D](https://github.com/anduong96/anduong96/blob/main/profile-3d-contrib/profile-night-green.svg)
   
