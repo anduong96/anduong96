@@ -36,12 +36,10 @@
   <br/>
   <hr />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=anduong96&theme=onedark" />
   <br/>
   <br/>
-
+  [![Tokscale Stats](https://tokscale.ai/api/embed/anduong96/svg)](https://tokscale.ai/u/anduong96)
   ![Stats 3D](https://github.com/anduong96/anduong96/blob/main/profile-3d-contrib/profile-night-green.svg)
-
   ![Stats Overview](https://raw.githubusercontent.com/anduong96/github-stats-transparent/output/generated/overview.svg)
 
   <hr />
