@@ -48,6 +48,8 @@
   <hr />
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C155%20hrs%2023%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-344.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -75,7 +77,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 03:43:07 UTC
+ Last Updated on 16/05/2026 03:40:57 UTC
 <!--END_SECTION:waka-->
   
   <hr />
