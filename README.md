@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <a href="https://maderight.ai">
-      <img alt="MadeRight.ai" src="https://avatars.githubusercontent.com/u/153028651?s=400"/>
+      <img alt="MadeRight.ai" src="https://avatars.githubusercontent.com/u/153028651?s=100"/>
   </a>
   <br/>
   <br/>
