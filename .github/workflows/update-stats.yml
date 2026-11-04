@@ -24,10 +24,6 @@ jobs:
     name: Generate image
     runs-on: ubuntu-latest
     steps:
-      - uses: yalongwastaken/git-koi@v1
-        with:
-          body: white
-          output-dir: koi
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
@@ -35,12 +31,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME:  ${{ github.repository_owner }}
-
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          body: white
+          output-dir: koi
       - name: Commit & Push
+        shell: bash
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add koi/koi.gif
           git add -A .
           git commit --quiet -m "generated"
           git push --quiet
