@@ -20,10 +20,14 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           LOCALE: "en"
-  generate-3d-image:
-    name: Generate 3D image
+  generate-image:
+    name: Generate image
     runs-on: ubuntu-latest
     steps:
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          body: white
+          output-dir: koi
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
