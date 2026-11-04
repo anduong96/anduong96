@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anduong96/anduong96/main/koi/koi.gif" width="256" alt="The author's koi, redrawn every night from the day's activity" />
+</p>
+
 <div align="left">
   <h1>👋. <small>I build things</small></h1>
 
